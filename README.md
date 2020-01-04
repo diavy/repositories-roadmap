@@ -5,9 +5,7 @@ This is a roadmap for all the repositories under my github, and is updated conti
 
 ### 2009 Google Summer of Codes: 
 https://github.com/diavy/biolib 
-
 https://github.com/diavy/cmake-support 
-
 https://github.com/diavy/libsequence
                              
   
