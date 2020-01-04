@@ -4,11 +4,11 @@ This is a roadmap for all the repositories under my github, and is updated conti
 ## 1. Previously archived projects:
 
 - 2009 Google Summer of Codes: 
-https://github.com/diavy/biolib 
+   - https://github.com/diavy/biolib 
 
-https://github.com/diavy/cmake-support 
+   - https://github.com/diavy/cmake-support 
 
-https://github.com/diavy/libsequence
+   - https://github.com/diavy/libsequence
 
 - PhD Twitter & Science study:
 https://github.com/diavy/twitter-science
