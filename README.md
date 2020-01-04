@@ -1,11 +1,13 @@
 # repositories-roadmap
 This is a roadmap for all the repositories under my github, and is updated continuously.
 
-1. Previously archived projects:
+## 1. Previously archived projects:
 
-# 2009 Google Summer of Codes: 
+### 2009 Google Summer of Codes: 
 https://github.com/diavy/biolib 
+
 https://github.com/diavy/cmake-support 
+
 https://github.com/diavy/libsequence
                              
   
