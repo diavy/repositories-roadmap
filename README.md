@@ -17,12 +17,22 @@ https://github.com/diavy/twitter-science
 https://github.com/diavy/D4D_mobile
 
 - Patient Sentiment project:
-https://github.com/diavy/python-yelp-crawling
+   - https://github.com/diavy/python-yelp-crawling
 
-https://github.com/diavy/patient-review-absa
+   - https://github.com/diavy/patient-review-absa
                              
  
 ## 2. Codes implementation for classicial books:
+
+### Machine Learning
+
+- 李航统计学习方法（第一版）： https://github.com/diavy/lihang-code
+
+### Deep Learning
+
+- Dive Into Deep Learning （PyTorch）： https://github.com/diavy/d2l-pytorch
+
+- 
 
 
 3. Notes and assignments for online courses:
