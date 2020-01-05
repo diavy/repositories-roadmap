@@ -26,7 +26,7 @@ This is a roadmap for all the repositories under my github, and is updated conti
 ## 3. Notes and assignments for online courses:
 
 - Andrew Ng Deep Learning: https://github.com/diavy/Coursera-Deep-Learning-deeplearning.ai
-- Coursera HSE-AML NLP course: https://github.com/diavy/natural-language-processing
+- Coursera HSE-AML NLP course: https://github.com/diavy/hse-natural-language-processing
 - Andrew Ng Machine Learning：https://github.com/diavy/ml-coursera-python-assignments 
 - Stanford CS-224N： https://github.com/diavy/CS224N-2019
 - Google Cloud Tensorflow course: https://github.com/diavy/tensorflow-without-a-phd
