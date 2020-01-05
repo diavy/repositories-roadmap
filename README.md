@@ -1,14 +1,19 @@
 # repositories-roadmap
 This is a roadmap for all the repositories under my github, and is updated continuously.
 
-## 1. Mixture of ML/DL/NLP materials:
+## 1. Personal implementation of ML/DL/RS models: (to be updated)
+- Recommendation System: https://github.com/diavy/recommendation-system
+- Matchine Learning: https://github.com/diavy/machine-learning
+- NLP: https://github.com/diavy/natural-language-preprocessing
+
+## 2. Mixture of ML/DL/NLP materials:
 
 - 机器学习、NLP面试中常考到的知识点和代码实现: https://github.com/diavy/ML-NLP
 - Tensorflow Implementation for common NLP models: https://github.com/diavy/NLP-Models-Tensorflow
 - All kinds of Deep Text Classification models: https://github.com/diavy/text_classification
 - NLP Tutorial for Deep Learning(Pytorch and Tensorflow 2.0): https://github.com/diavy/nlp-tutorial
 
-## 2. Codes implementation for classicial books:
+## 3. Codes implementation for classicial books:
 
 ### Machine Learning
 
@@ -23,16 +28,13 @@ This is a roadmap for all the repositories under my github, and is updated conti
 - Deep Learning with Python: https://github.com/diavy/deep-learning-with-python-notebooks
 
 
-## 3. Notes and assignments for online courses:
+## 4. Notes and assignments for online courses:
 
 - Andrew Ng Deep Learning: https://github.com/diavy/Coursera-Deep-Learning-deeplearning.ai
 - Coursera HSE-AML NLP course: https://github.com/diavy/hse-natural-language-processing
 - Andrew Ng Machine Learning：https://github.com/diavy/ml-coursera-python-assignments 
 - Stanford CS-224N： https://github.com/diavy/CS224N-2019
 - Google Cloud Tensorflow course: https://github.com/diavy/tensorflow-without-a-phd
-
-
-## 4. Personal implementation of ML/DL models: (to be updated)
 
 
 ## 5. Previously archived projects:
@@ -52,7 +54,3 @@ https://github.com/diavy/D4D_mobile
    - https://github.com/diavy/python-yelp-crawling
    - https://github.com/diavy/patient-review-absa
                              
-
-
-
-
