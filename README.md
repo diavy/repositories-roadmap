@@ -1,7 +1,7 @@
 # repositories-roadmap
 This is a roadmap for all the repositories under my github, and is updated continuously.
 
-## 1. Personal implementation of ML/DL/RS models: (to be updated)
+## 1. Personal implementation of ML/DL/NLP/RS models: (to be updated)
 - Recommendation System: https://github.com/diavy/recommendation-system
 - Matchine Learning: https://github.com/diavy/machine-learning
 - NLP: https://github.com/diavy/natural-language-preprocessing
