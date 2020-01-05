@@ -14,7 +14,6 @@ This is a roadmap for all the repositories under my github, and is updated conti
 
 - 李航统计学习方法（第一版）： https://github.com/diavy/lihang-code
 - Hands-on Machine Learning with Scikit-Learn and TensorFlow: https://github.com/diavy/handson-ml
-- 
 
 ### Deep Learning
 
@@ -51,7 +50,6 @@ https://github.com/diavy/D4D_mobile
 
 - Patient Sentiment project:
    - https://github.com/diavy/python-yelp-crawling
-
    - https://github.com/diavy/patient-review-absa
                              
 
